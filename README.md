@@ -1,6 +1,5 @@
 # StackPile: Gestor de Inventarios
 
->[!IMPORTANT]
 > [Video de demostración](https://youtu.be/5UdSEzlsOog).
 
 Este proyecto es una Aplicación Android para que los negocios o empresas pequeñas puedan monitorear su rendimiento, egresos, ingresos,
