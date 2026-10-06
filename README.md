@@ -118,6 +118,7 @@ Seis archivos `.csv`, uno por tabla, que se abren directo en Excel o Sheets:
 Los tres últimos son las relaciones (tablas puente).
 
 Los archivos se escriben en el almacenamiento privado de la app y se entregan por la hoja de compartir de Android. 
+
 ---
 
 ## Accesibilidad
